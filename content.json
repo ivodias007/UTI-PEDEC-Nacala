@@ -1,0 +1,1884 @@
+{
+ "versao": 1,
+ "noticias": [
+  {
+   "id": "n1",
+   "categoria": "Logística",
+   "data": "2026-02-13",
+   "titulo": "Governo lança concurso internacional para expandir o Porto de Nacala",
+   "texto": [
+    "O Conselho de Ministros autorizou o Ministério dos Transportes e Logística a lançar o concurso para o projecto integrado de expansão do porto. Com capacidade para 10 milhões de toneladas por ano, o porto movimentou 3,5 milhões em 2024, cerca de 35%.",
+    "O projecto prevê a modernização dos terminais, uma zona económica especial, portos secos e um dique flutuante."
+   ],
+   "fontes": [
+    {
+     "nome": "Freight News",
+     "url": "https://www.freightnews.co.za/article/mozambique-launches-tender-for-nacala-port-concession"
+    }
+   ],
+   "imagem": "noticia-porto.jpg",
+   "imagemUrl": "https://aimnews.org/wp-content/uploads/2023/08/PORTO-DE-NACALA-1024x575.jpg",
+   "credito": "Imagem de arquivo: AIM"
+  },
+  {
+   "id": "n2",
+   "categoria": "Mineração",
+   "data": "2025-11-26",
+   "titulo": "Carvão de Tete: Governo prevê mais de 22 milhões de toneladas em 2026",
+   "texto": [
+    "A previsão divide-se em 9,3 milhões de toneladas de carvão de coque e 13,1 milhões de carvão térmico, contra 16,3 milhões produzidos em 2024. As minas de Moatize, em Tete, estão no centro desta produção.",
+    "O Ministro Salim Valá defende que os corredores que transportam carvão devem poder transportar também milho, açúcar e caju."
+   ],
+   "fontes": [
+    {
+     "nome": "RTP/Lusa",
+     "url": "https://www.rtp.pt/noticias/economia/mocambique-espera-recorde-na-producao-de-carvao-em-2026_n1700716"
+    },
+    {
+     "nome": "Forbes África Lusófona",
+     "url": "https://forbesafricalusofona.com/?p=178129"
+    }
+   ],
+   "imagem": "noticia-mina.jpg",
+   "imagemUrl": "https://aimnews.org/wp-content/uploads/2023/11/CARVAO.jpg",
+   "credito": "Imagem de arquivo: AIM"
+  },
+  {
+   "id": "n3",
+   "categoria": "Agricultura",
+   "data": "2025-07-21",
+   "titulo": "Nicoadala, na Zambézia, colhe 153 mil toneladas de arroz, acima da meta",
+   "texto": [
+    "O distrito colheu 153 mil toneladas em cerca de 41 mil hectares, acima das 145 mil previstas e das 132 mil do ano anterior.",
+    "Os produtores pedem apoio financeiro para ampliar as machambas e apontam como obstáculos as estradas de acesso aos mercados e a falta de uma fábrica de processamento local."
+   ],
+   "fontes": [
+    {
+     "nome": "360 Mozambique",
+     "url": "https://360mozambique.com/business/agri-business/zambezia-records-satisfactory-rice-production/"
+    }
+   ],
+   "imagem": "noticia-arroz.jpg",
+   "imagemUrl": "https://360mozambique.com/wp-content/uploads/2023/11/Rice_Easy-Resize.com_.jpg",
+   "credito": "Imagem: 360 Mozambique"
+  },
+  {
+   "id": "n4",
+   "categoria": "Logística",
+   "data": "2025-12-21",
+   "titulo": "Moçambique, Malawi, Zâmbia e RD Congo querem estender o Corredor Ferroviário de Nacala",
+   "texto": [
+    "Os governos dos quatro países assinaram, a 19 de Dezembro, um memorando para estender o corredor ferroviário de Nacala. A linha, com cerca de 2.400 km, ligaria Chipata, na Zâmbia, a Serege, na RD Congo, passando pelo Malawi e por Moçambique.",
+    "O Ministro dos Transportes e Logística, João Matlombe, disse que o passo seguinte é um acordo, no primeiro trimestre de 2026, para identificar um parceiro de construção."
+   ],
+   "fontes": [
+    {
+     "nome": "360 Mozambique",
+     "url": "https://360mozambique.com/business/logistics/mozambique-malawi-zambia-and-dr-congo-seek-to-extend-nacala-railway-corridor/"
+    }
+   ],
+   "imagem": "noticia-porto.jpg",
+   "imagemUrl": "https://360mozambique.com/wp-content/uploads/2025/10/Nacala-Logistics_Site_Easy-Resize.com_.jpg",
+   "credito": "Imagem: 360 Mozambique"
+  },
+  {
+   "id": "n5",
+   "categoria": "PEDEC-Nacala",
+   "data": "2026-06-09",
+   "titulo": "Fórum Moçambique-UE debate novas parcerias para o Corredor de Nacala",
+   "texto": [
+    "Governo, investidores, parceiros de desenvolvimento e empresas reuniram-se no Fórum de Negócios Moçambique-UE, em Maputo, para discutir como o investimento coordenado pode fazer do Corredor de Nacala um motor de crescimento e de integração regional. A sessão, organizada por Moçambique e pela Bélgica, abordou agricultura, logística, mineração, energia e turismo.",
+    "A Unidade de Implementação do PEDEC-Nacala foi apresentada como ponto único de contacto para os investidores, alinhando os projectos com a Estratégia de Desenvolvimento Económico do Corredor de Nacala, através de um comité de direcção que reúne pelo menos duas vezes por ano."
+   ],
+   "fontes": [
+    {
+     "nome": "Enabel",
+     "url": "https://open.enabel.be/en/update/id/3665"
+    }
+   ],
+   "imagem": "noticia-porto.jpg",
+   "imagemUrl": "https://open.enabel.be/files/pictures/update/2508MOZ_6a4bc64a64ff96.18193866.JPG",
+   "credito": "Imagem: Enabel"
+  },
+  {
+   "id": "n6",
+   "categoria": "PEDEC-Nacala",
+   "data": "2025-08-22",
+   "titulo": "Corredor de Nacala, galvanizador do desenvolvimento da África Austral",
+   "texto": [
+    "O Presidente Daniel Chapo defendeu, na sessão plenária sobre economia da TICAD 9, que o Governo deve promover o desenvolvimento integrado de infra-estruturas nos corredores nacionais e regionais, citando o Corredor de Nacala, que abrange cinco províncias e tem o Japão como parceiro estratégico.",
+    "O Executivo retomou a estratégia de desenvolvimento económico do corredor, elaborada há mais de dez anos com a JICA. Os planos estão inscritos no Programa Quinquenal do Governo 2025-2029 e centram-se em estradas, pontes, ferrovias, portos, aeroportos, fronteiras de paragem única e digitalização."
+   ],
+   "fontes": [
+    {
+     "nome": "AIM",
+     "url": "https://aimnews.org/2025/08/22/corredor-de-nacala-galvanizador-do-desenvolvimento-da-africa-austral-chapo/"
+    }
+   ],
+   "imagem": "noticia-porto.jpg",
+   "imagemUrl": "https://aimnews.org/wp-content/uploads/2025/08/Presidente-da-Republica-na-abertura-da-Sessao-Plenaria-sobre-Economia-da-TICAD-9-1-1024x682.jpeg",
+   "credito": "Imagem: AIM"
+  }
+ ],
+ "eventos": [
+  {
+   "id": "e1",
+   "data": "2026-11-18",
+   "hora": "09:00",
+   "local": "Nampula",
+   "titulo": "Fórum Económico do Corredor de Nacala"
+  },
+  {
+   "id": "e2",
+   "data": "2026-12-03",
+   "hora": "09:00",
+   "local": "Lichinga",
+   "titulo": "Workshop de monitoria e avaliação com pontos focais provinciais"
+  },
+  {
+   "id": "e3",
+   "data": "2027-01-21",
+   "hora": "10:00",
+   "local": "Quelimane",
+   "titulo": "Mesa-redonda sobre cadeias de valor agrícolas"
+  },
+  {
+   "id": "e4",
+   "data": "2027-02-11",
+   "hora": "08:00",
+   "local": "Tete",
+   "titulo": "Missão técnica ao eixo Tete–Moatize"
+  }
+ ],
+ "projectos": [
+  {
+   "id": "pp01",
+   "n": 1,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Melhoria da Gestão do Desenvolvimento Regional do Corredor de Nacala",
+   "sector": "Planificação e Desenvolvimento",
+   "ministerio": "Ministério da Planificação e Desenvolvimento",
+   "executor": "Ministério da Planificação e Desenvolvimento / UTI-PEDEC-Nacala",
+   "localtxt": "Nampula, Niassa, Cabo Delgado, Tete e Zambézia",
+   "provs": [
+    "niassa",
+    "cabo-delgado",
+    "nampula",
+    "zambezia",
+    "tete"
+   ],
+   "txt": "Projecto destinado a assegurar a coordenação, planificação, monitoria e promoção integrada da implementação do PEDEC-Nacala entre os sectores e níveis de governação.",
+   "periodo": "",
+   "atual": "UTI-PEDEC-Nacala criada e operacional, sob tutela do Ministério da Planificação e Desenvolvimento.",
+   "marcos": [
+    "30.ª Sessão Ordinária do Conselho de Ministros, de 2 de Setembro de 2025: decisão de reactivar o PEDEC-Nacala e reforçar a sua implementação.",
+    "Resolução n.º 49/2025, de 5 de Dezembro: transferência da coordenação para o MPD e definição do quadro de governação.",
+    "Diploma Ministerial n.º 134/2025, de 31 de Dezembro: criação da UTI-PEDEC-Nacala.",
+    "Diploma Ministerial n.º 49/2026, de 26 de Junho: aprovação do Regulamento Interno da UTI-PEDEC-Nacala.",
+    "UTI-PEDEC-Nacala operacional, com escritório em funcionamento no MPD, em Maputo.",
+    "Plano de Actividades e Orçamento 2026 aprovado.",
+    "Plano de Acção Agosto de 2026–Dezembro de 2027 em implementação."
+   ]
+  },
+  {
+   "id": "pp02",
+   "n": 2,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Desenvolvimento da Capacidade de Gestão Ambiental",
+   "sector": "Agricultura, Ambiente e Pescas",
+   "ministerio": "Ministério da Agricultura, Ambiente e Pescas",
+   "executor": "Agência Nacional de Qualidade e Controlo Ambiental /MAAP",
+   "localtxt": "Maputo, Tete, Nampula",
+   "provs": [
+    "tete",
+    "nampula"
+   ],
+   "txt": "No sistema existente de AIA, os proponentes de projectos devem preparar e apresentar um plano de gestão ambiental.",
+   "periodo": "",
+   "resumo": "No sistema existente de AIA, os proponentes de projectos devem preparar e apresentar um plano de gestão ambiental. Contudo, o MITADER não desenvolveu uma capacidade suficiente para monitorar e orientar a implementação de tais planos de gestão ambiental. Primeiramente será estabelecido um sistema de implementação para a monitoria e orientação aos proponentes dos projectos. Em seguida, em concordância com o sistema de implementação a ser estabelecido, será realizada a capacitação para a implementação da monitoria e orientação das actividades a serem levadas a cabo pelos proponentes dos projectos de acordo com os seus planos de gestão ambiental. Ademais, serão criados laboratórios ambientais em Maputo, Tete e Nacala, os quais serão dotados de um conjunto de equipamentos de monitoria ambiental necessários para a recolha de informações ambientais fundamentais. Também será empreendida a capacitação dos técnicos do MITADER em termos de uso dos equipamentos, elaboração de programas de monitoria, inspecção periódica, manutenção dos equipamentos e preparação de programas de auditoria ambiental. O quadro legal ambiental será melhorado."
+  },
+  {
+   "id": "pp03",
+   "n": 3,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Fortalecimento do Processo de Aquisição do DUAT",
+   "sector": "Agricultura, Ambiente e Pescas",
+   "ministerio": "Ministério da Agricultura, Ambiente e Pescas",
+   "executor": "MAAP",
+   "localtxt": "Nampula, Niassa, Cabo Delgado, Tete e Zambézia",
+   "provs": [
+    "niassa",
+    "cabo-delgado",
+    "nampula",
+    "zambezia",
+    "tete"
+   ],
+   "txt": "As seguintes operações dos serviços de cadastro provincial e distrital serão melhoradas de modo a evitar conflitos envolvendo a terra entre os investidores e as comunidades: Gestão da base de dados e informações sobre o uso da terra e os…",
+   "periodo": "",
+   "resumo": "As seguintes operações dos serviços de cadastro provincial e distrital serão melhoradas de modo a evitar conflitos envolvendo a terra entre os investidores e as comunidades: Gestão da base de dados e informações sobre o uso da terra e os procedimentos administrativos/técnicos de registo de terrenos (identificação dos terrenos e mapeamento GIS); Monitoria do processo de consulta participativa; e Consciencialização das comunidades sobre os seus direitos à terra ou a valorização dos seus terrenos. Uma abordagem com a combinação de “DUATs comunitários” e “DUATs individuais para os pequenos agricultores” deverá ser promovida para assegurar os terrenos dos agricultores locais. O Ministério da Agricultura e Segurança Alimentar, a DNTF e o SPGC serão os órgãos administrativos relevantes."
+  },
+  {
+   "id": "pp04",
+   "n": 4,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Capacitação do Processo de Reassentamento",
+   "sector": "Agricultura, Ambiente e Pescas",
+   "ministerio": "Ministério da Agricultura, Ambiente e Pescas",
+   "executor": "MAAP",
+   "localtxt": "Nampula, Niassa, Cabo Delgado, Tete e Zambézia",
+   "provs": [
+    "niassa",
+    "cabo-delgado",
+    "nampula",
+    "zambezia",
+    "tete"
+   ],
+   "txt": "As seguintes operações dos departamentos de planeamento territorial provincial e distrital (sob a tutela do MITADER) serão melhoradas de modo a evitar conflitos entre os investidores e as comunidades em relação a reassentamentos: Monitoria…",
+   "periodo": "",
+   "resumo": "As seguintes operações dos departamentos de planeamento territorial provincial e distrital (sob a tutela do MITADER) serão melhoradas de modo a evitar conflitos entre os investidores e as comunidades em relação a reassentamentos: Monitoria do processo de consulta participativa, assim como a monitoria da implementação do processo de reassentamento e compensação; e Consciencialização das comunidades sobre os seus direitos à terra, valorização dos seus terrenos e os valores da compensação. O MITADER, a DINAPOT e o DEPOT/DPCAA* serão os órgãos administrativos pertinentes. O projecto durará dois anos."
+  },
+  {
+   "id": "pp05",
+   "n": 5,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Programa de Apoio aos Pequenos Agricultores nas Zonas Menos Acessíveis para a Aquisição do DUAT",
+   "sector": "Agricultura, Ambiente e Pescas",
+   "ministerio": "Ministério da Agricultura, Ambiente e Pescas",
+   "executor": "MAAP",
+   "localtxt": "Niassa e Cabo Delgado",
+   "provs": [
+    "niassa",
+    "cabo-delgado"
+   ],
+   "txt": "Nas áreas ao longo dos principais corredores bem como nas áreas próximas das minas de carvão de Tete e da zona de exploração do gás natural em Palma, será implementado o “Projecto de Fortalecimento do Processo de Aquisição do DUAT”, que é…",
+   "periodo": "",
+   "resumo": "Nas áreas ao longo dos principais corredores bem como nas áreas próximas das minas de carvão de Tete e da zona de exploração do gás natural em Palma, será implementado o “Projecto de Fortalecimento do Processo de Aquisição do DUAT”, que é listado na Tabela 20.2.8. Por outro lado, as zonas menos acessíveis, distantes dos corredores de transporte e principais locais de mineração, também requerem acções especiais de apoio aos pequenos agricultores, sobretudo, quando os investimentos privados e projectos de infraestrutura estejam prestes a chegar a essas zonas menos acessíveis. Este projecto tem como alvo as zonas menos acessíveis nas Províncias de Niassa e de Cabo Delgado."
+  },
+  {
+   "id": "pp06",
+   "n": 6,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Melhoria das Subestações de Energia em Nampula e Nacala",
+   "sector": "Recursos Minerais e Energia",
+   "ministerio": "Ministério dos Recursos Minerais e Energia",
+   "executor": "EDM",
+   "localtxt": "",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "O projecto contempla obras civis para o combate a erosão, melhoramento do sistema de SCADA e extensão de redes de distribuição.",
+   "periodo": ""
+  },
+  {
+   "id": "pp07",
+   "n": 7,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto das Linhas de Transmissão Chimuara-Namialo-Nacala",
+   "sector": "Recursos Minerais e Energia",
+   "ministerio": "Ministério dos Recursos Minerais e Energia",
+   "executor": "EDM",
+   "localtxt": "Nampula e Zambézia",
+   "provs": [
+    "nampula",
+    "zambezia"
+   ],
+   "txt": "1..1 ÂMBITO DOS TRABALHOS DO LOTE 1 (LINHA 400kV CHIMUARA-ALTO MOLÓCUÉ) Fornecimento e montagem de 367 km de linha de 400 kV da nova Subestação de Chimuara até à nova Subestação de Alto Molócué;",
+   "periodo": "",
+   "resumo": "1..1 ÂMBITO DOS TRABALHOS DO LOTE 1 (LINHA 400kV CHIMUARA-ALTO MOLÓCUÉ) Fornecimento e montagem de 367 km de linha de 400 kV da nova Subestação de Chimuara até à nova Subestação de Alto Molócué; Construção de Linha a 220 kV, da SE Chimuara existenłe até a Nova SE Œiimuara numa extensão de 4Km; Construção da Linha a 220kV entre a SE existente de Alto Molócuè, e a nova SE Alto Molócuè numa extens4o de 4 Km; 1.2 ÂMBITO DOS TRABALHOS DO LOTE 2 (SUBESTAÇÖES) Fomecimento e montagem de uma Subestação 220/400 kV, 2X250MVA em Chimuara (Distrito de Mopeia); Fornecimento e montagem de uma Subestação 400/220kV, 2X250MVA em Alto Molocué (Distrito de Alto Molocué). Construção de 272 Km de Linha de Transmissão à 400 kV de Alto Molócuè - Namialo, 98 Km de Linha de Transmissão à 220 kV de Namialo-Nampula, 90 Km de Linha de Transmissão à 220 kV de Namialo - Nacala-à-Velha. Uma subestação nova 400/220/110 kV em Namialo Uma subestação nova 220/110 kV em Nacala-à-Velha, e a Expansão da Subestação de Nampula 220/1l0kV",
+   "atual": "Implementação actualmente desdobrada em Fase 1 (Chimuara-Alto Molócuè) e Fase 2 (Alto Molócuè-Namialo/Nampula/Nacala)"
+  },
+  {
+   "id": "pp08",
+   "n": 8,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto das Linhas de Transmissão Palma-Pemba-Nacala",
+   "sector": "Recursos Minerais e Energia",
+   "ministerio": "Ministério dos Recursos Minerais e Energia",
+   "executor": "EDM",
+   "localtxt": "",
+   "provs": [
+    "cabo-delgado",
+    "nampula"
+   ],
+   "txt": "Uma nova linha de transmissão (com mais de 450 km de extensão) e 3 subestações serão instaladas entre Palma e a Área da Baia de Nacala, passando por Pemba.",
+   "periodo": ""
+  },
+  {
+   "id": "pp09",
+   "n": 9,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Produção de Briquetes de Carvão em Tete",
+   "sector": "Recursos Minerais e Energia",
+   "ministerio": "Ministério dos Recursos Minerais e Energia",
+   "executor": "FUNAE e o Sector Privado",
+   "localtxt": "Tete",
+   "provs": [
+    "tete"
+   ],
+   "txt": "O projecto irá promover a disseminação do uso de bio-briquetes como uma nova fonte de energia para o país a substituir a lenha, tirando proveito do grande volume de pó de carvão em Moatize e também da biomassa disponível na Província de Tete.",
+   "periodo": "",
+   "resumo": "O projecto irá promover a disseminação do uso de bio-briquetes como uma nova fonte de energia para o país a substituir a lenha, tirando proveito do grande volume de pó de carvão em Moatize e também da biomassa disponível na Província de Tete. O projecto contribuirá para a desaceleração do desmatamento e a criação de novos empregos. Espera-se que as actividades de responsabilidade social corporativa (RSC) apoiem o projecto. A duração do projecto será de 3 anos no mínimo, incluindo pesquisas e investigações, bem como a mobilização das PMEs."
+  },
+  {
+   "id": "pp10",
+   "n": 10,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Urgência de Instalação do Gerador Termoeléctrico com Capacidade de 30 a 40 MW na Área da Baía de Nacala",
+   "sector": "Recursos Minerais e Energia",
+   "ministerio": "Ministério dos Recursos Minerais e Energia",
+   "executor": "EDM",
+   "localtxt": "",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "instalação de Gerador Termoelétrico com capacidade de 40 MW na região da Baia de Nacala. Na primeira fase, será utilizado diesel como tecnologia, e posteriormente será convertido para funcionar com gás natural.",
+   "periodo": "",
+   "atual": "Na matriz sectorial recente: Projecto de Emergência de Nacala, 40 MW (EDM/JICA)"
+  },
+  {
+   "id": "pp11",
+   "n": 11,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto da Usina Termoeléctrica de Nacala",
+   "sector": "Recursos Minerais e Energia",
+   "ministerio": "Ministério dos Recursos Minerais e Energia",
+   "executor": "EDM / sector privado",
+   "localtxt": "Nampula (Área da Baía de Nacala)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "Construção duma central termoelétrica de ciclo combinado à gás em Nacala-à-Velła para garantir um fenecimento estável de energia elétrica e atender rapidamente à crescente demanda de energia no centro e norte do país.",
+   "periodo": "",
+   "resumo": "Construção duma central termoelétrica de ciclo combinado à gás em Nacala-à-Velła para garantir um fenecimento estável de energia elétrica e atender rapidamente à crescente demanda de energia no centro e norte do país. A capacidade de geração será de 200 MW.",
+   "atual": "Na matriz recente aparecem configurações/promotores EDM/NOR ENERGY e EDM/GLA Energy"
+  },
+  {
+   "id": "pp12",
+   "n": 12,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto da Usina Termoeléctrica de Palma",
+   "sector": "Recursos Minerais e Energia",
+   "ministerio": "Ministério dos Recursos Minerais e Energia",
+   "executor": "EDM",
+   "localtxt": "",
+   "provs": [
+    "cabo-delgado"
+   ],
+   "txt": "Para tirar proveito da existência do gás natural a ser explorado nos campos de gás offshore, uma usina termoeléctrica será construída com uma capacidade inicial de geração de cerca de 75 MW com vista a fornecer energia não apenas as zonas…",
+   "periodo": "",
+   "atual": "Na matriz recente: Central Termoeléctrica de Palma (TotalEnergies)",
+   "resumo": "Para tirar proveito da existência do gás natural a ser explorado nos campos de gás offshore, uma usina termoeléctrica será construída com uma capacidade inicial de geração de cerca de 75 MW com vista a fornecer energia não apenas as zonas urbanas de Palma, bem como aos sectores de apoio para a produção de GNL e indústrias químicas usando o gás natural, mas também a outras áreas, incluindo Pemba e a Área da Baía de Nacala."
+  },
+  {
+   "id": "pp13",
+   "n": 13,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Parque Industrial de Nacala",
+   "sector": "Economia (Turismo)",
+   "ministerio": "Ministério da Economia (Turismo)",
+   "executor": "APIEX, IP",
+   "localtxt": "Nampula (Município de Nacala)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "Um parque industrial de classe internacional com um conjunto completo de infraestruturas internas e externas será estabelecido para criar uma nova base industrial aproveitando a função nodal de Nacala para ser um portão internacional.",
+   "periodo": "",
+   "resumo": "Um parque industrial de classe internacional com um conjunto completo de infraestruturas internas e externas será estabelecido para criar uma nova base industrial aproveitando a função nodal de Nacala para ser um portão internacional. Será concedido o status de ZFI. O parque é localizado a cerca de 5km a sul do Porto de Nacala por via da estrada de acesso proposta, num terreno já adquirido pelo GAZEDA. A área total de desenvolvimento será de 500 hectares, nos quais o desenvolvimento inicial dos primeiros 50 hectares será promovido em forma de projecto público de investimento, enquanto os restantes 450 hectares serão desenvolvidos por iniciativas privadas."
+  },
+  {
+   "id": "pp14",
+   "n": 14,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Desenvolvimento do Cinturão Industrial de Nacala",
+   "sector": "Economia (Turismo)",
+   "ministerio": "Ministério da Economia (Turismo)",
+   "executor": "APIEX, IP",
+   "localtxt": "Nampula (Município de Nacala)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "Um total de 100 hectares em lotes será preparado na área do cinturão industrial onde serão assentadas as empresas que pretendem se estabelecer na ZEE de Nacala.",
+   "periodo": "",
+   "resumo": "Um total de 100 hectares em lotes será preparado na área do cinturão industrial onde serão assentadas as empresas que pretendem se estabelecer na ZEE de Nacala. O GAZEDA obterá os DUATs e organizará os serviços públicos para fornecer os lotes de terra com infraestruturas (vias de acesso, electricidade e abastecimento de água) aos investidores privados. Este projecto é uma medida imediata para atender à rápida e crescente demanda por terrenos industriais na ZEE de Nacala até que o Parque Industrial de Nacala entre em operação."
+  },
+  {
+   "id": "pp15",
+   "n": 15,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Parque Industrial de Cuamba",
+   "sector": "Economia (Turismo)",
+   "ministerio": "Ministério da Economia (Turismo)",
+   "executor": "APIEX, IP",
+   "localtxt": "Niassa (Município de Cuamba)",
+   "provs": [
+    "niassa"
+   ],
+   "txt": "O projecto irá disponibilizar um parque industrial onde vários produtos agrícolas e madeira provenientes das áreas adjacentes de Cuamba serão processados, aproveitando a localização geográfica da cidade.",
+   "periodo": "",
+   "resumo": "O projecto irá disponibilizar um parque industrial onde vários produtos agrícolas e madeira provenientes das áreas adjacentes de Cuamba serão processados, aproveitando a localização geográfica da cidade. Os produtos agrícolas a serem processados incluirão o milho, mandioca, feijão nhemba, feijão boer, soja, gergelim, algodão e tabaco. O parque industrial de 25 hectares será localizado numa área triangular cercada pela Estrada N360, a Estrada N13 e a linha férrea que vai a Lichinga, na junção das referidas estradas."
+  },
+  {
+   "id": "pp16",
+   "n": 16,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Melhoria da Gestão das ZEEs/ZFIs",
+   "sector": "Economia (Turismo)",
+   "ministerio": "Ministério da Economia (Turismo)",
+   "executor": "APIEX, IP",
+   "localtxt": "Nampula (Município de Nacala e Distrito de Nacala-à-Velha)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "Em Moçambique, especialmente para a Região do Corredor de Nacala e Maputo, existe a exigência por capacidades físicas e competências humanas para receber novos investimentos/empresas por meio do desenvolvimento de parques industriais ou…",
+   "periodo": "",
+   "resumo": "Em Moçambique, especialmente para a Região do Corredor de Nacala e Maputo, existe a exigência por capacidades físicas e competências humanas para receber novos investimentos/empresas por meio do desenvolvimento de parques industriais ou áreas industriais designadas com as infrastruturas necessárias, bem como através do fornecimento de serviços de gestão para as empresas em operação e outras que pretendem estabelecer-se no país. O projecto tem como objectivo a capacitação do GAZEDA com vista à melhoria da gestão da ZEE de Nacala e ao planeamento de novas ZEEs e ZFIs em Moçambique, principalmente com o propósito de aumentar as capacidades física e humana do GAZEDA para acomodar novas empresas e apoiar aquelas em operação."
+  },
+  {
+   "id": "pp17",
+   "n": 17,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto da Ligação entre os Projectos de Grande Escala e as Indústrias Locais",
+   "sector": "Economia (Turismo)",
+   "ministerio": "Ministério da Economia (Turismo)",
+   "executor": "APIEX, IP",
+   "localtxt": "Tete, Cabo Delgado e Nampula",
+   "provs": [
+    "cabo-delgado",
+    "nampula",
+    "tete"
+   ],
+   "txt": "O projecto tem como objectivo promover a ligação entre os futuros projectos de investimento de grande escala e as indústrias locais.",
+   "periodo": "",
+   "resumo": "O projecto tem como objectivo promover a ligação entre os futuros projectos de investimento de grande escala e as indústrias locais. Para este propósito, será criado um directório de empresas que vai incluir tanto as empresas de grande escala como as PMEs locais, de modo que se efective uma combinação (matching) de ambas as partes . O CPI trabalha actualmente com a UNIDO na criação de uma base de dados de empresas, cujos resultados serão utilizados para este projecto proposto. O projecto terá uma duração de dois anos."
+  },
+  {
+   "id": "pp18",
+   "n": 18,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Melhoria Logística para a ZEE de Mocuba",
+   "sector": "Economia (Turismo)",
+   "ministerio": "Ministério da Economia (Turismo)",
+   "executor": "APIEX, IP",
+   "localtxt": "Zambézia",
+   "provs": [
+    "zambezia"
+   ],
+   "txt": "O GAZEDA planeia o desenvolvimento de uma ZEE de 10.727km2 numa área que compreende o Distrito de Mocuba e o Posto Administrativo de Munhande na Província da Zambézia, aproveitando a sua localização estratégica.",
+   "periodo": "",
+   "resumo": "O GAZEDA planeia o desenvolvimento de uma ZEE de 10.727km2 numa área que compreende o Distrito de Mocuba e o Posto Administrativo de Munhande na Província da Zambézia, aproveitando a sua localização estratégica. Duas iniciativas privadas para desenvolver linhas férreas a partir da Província de Tete, sendo uma que vai até Nacala e a outra rumo ao Porto de Macuse, irão aumentar significativamente a viabilidade da ZEE de Mocuba. Os componentes do projecto incluem o desenvolvimento de infraestruturas, do terminal de transporte multimodal, do parque industrial (19ha) e de novos hotéis, assim como a melhoria do aeroporto existente."
+  },
+  {
+   "id": "pp19",
+   "n": 19,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Transferência do Área de Manobras Ferroviárias e Criação do Terminal Multimodal de Nampula",
+   "sector": "Transportes e Logística",
+   "ministerio": "Ministério dos Transportes e Logística",
+   "executor": "Ministério dos Transportes e Logística",
+   "localtxt": "Nampula (Município de Nampula)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "O projecto disponibilizará um terminal multimodal de cargas (comboio e camião) para um manuseio eficiente de cargas de/para Nacala e áreas do interior em direcção a Malawi.",
+   "periodo": "",
+   "resumo": "O projecto disponibilizará um terminal multimodal de cargas (comboio e camião) para um manuseio eficiente de cargas de/para Nacala e áreas do interior em direcção a Malawi. O projecto também vai relocalizar o área de manobras de comboios existente na Estação de Nampula, deslocando-o por aproximadamente 30km para leste e colocando-o no mesmo sítio do terminal multimodal de cargas. O área também será dotado de uma oficina para locomotivas. A área total será de cerca de 22 hectares. A capacidade de manuseio de contentores será de 50 a 60 mil TEUs por ano."
+  },
+  {
+   "id": "pp20",
+   "n": 20,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Terminal Multimodal e Área de Manobras Ferroviárias de Nacala",
+   "sector": "Transportes e Logística",
+   "ministerio": "Ministério dos Transportes e Logística",
+   "executor": "Ministério dos Transportes e Logística",
+   "localtxt": "Nampula (Município de Nacala)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "O projecto terá três componentes, a saber: 1) terminal multimodal (comboio e camião), 2) área de manobras de comboios e 3) parque de locomotivas.",
+   "periodo": "",
+   "resumo": "O projecto terá três componentes, a saber: 1) terminal multimodal (comboio e camião), 2) área de manobras de comboios e 3) parque de locomotivas. O projecto assegurará o transbordo eficaz de cargas de comboios para camiões e vice-versa no terminal multimodal (estação de carregamento ferroviário com terminal para camiões). A Área de manobras de comboios do projecto vai possibilitar uma manobra eficiente dos vagões cujo número deverá aumentar em consequência de um maior volume de cargas manuseadas no Porto de Nacala, na ZFI planeada e nas áreas industriais da hinterland portuária. A capacidade de manuseio de cargas será de 50 a 60 mil TEUs por ano. A zona proposta para o projecto localiza-se ao longo da rota proposta para a estrada de acesso ao Porto de Nacala, a aproximadamente 10km a sul do Porto."
+  },
+  {
+   "id": "pp21",
+   "n": 21,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Desvio Ferroviário de Nampula",
+   "sector": "Transportes e Logística",
+   "ministerio": "Ministério dos Transportes e Logística",
+   "executor": "Ministério dos Transportes e Logística",
+   "localtxt": "Nampula (Município de Nacala)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "O desvio ferroviário em via dupla desviará os comboios transportando o carvão produzido em Moatize, cargas gerais e contentores de modo a evitar o congestionamento de trânsito e a degradação do ambiente urbano na área central da Cidade de Nampula.",
+   "periodo": "",
+   "resumo": "O desvio ferroviário em via dupla desviará os comboios transportando o carvão produzido em Moatize, cargas gerais e contentores de modo a evitar o congestionamento de trânsito e a degradação do ambiente urbano na área central da Cidade de Nampula. O desvio corre ao norte da Cidade de Nampula com uma extensão de 43km."
+  },
+  {
+   "id": "pp22",
+   "n": 22,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Porto Seco Central de Malawi (Malawi)",
+   "sector": "Transportes e Logística",
+   "ministerio": "Ministério dos Transportes e Logística",
+   "executor": "Ministério dos Transportes e Logística",
+   "localtxt": "Malawi",
+   "provs": [],
+   "txt": "Serão construídos portos secos em duas localidades de Malawi (Liwonde e Chipoka) e em uma localidade de Zâmbia (Chipata) para assegurar a exportação e a importação eficientes de cargas ferroviárias através do Porto de Nacala (com economia…",
+   "periodo": "",
+   "resumo": "Serão construídos portos secos em duas localidades de Malawi (Liwonde e Chipoka) e em uma localidade de Zâmbia (Chipata) para assegurar a exportação e a importação eficientes de cargas ferroviárias através do Porto de Nacala (com economia de tempo e custo), melhorando assim a atractividade do transporte ferroviário entre Moçambique, Malawi e Zâmbia. Cada porto seco terá 1,2 hectares de área com parque de comboios, armazém aduaneiro, estação de carregamento de contentores e parque de contentores.",
+   "atual": "Na matriz anterior estava agregado com o Porto Seco de Chipata"
+  },
+  {
+   "id": "pp23",
+   "n": 23,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Porto Seco de Chipata (Zâmbia)",
+   "sector": "Transportes e Logística",
+   "ministerio": "Ministério dos Transportes e Logística",
+   "executor": "Ministério dos Transportes e Logística",
+   "localtxt": "Zâmbia",
+   "provs": [],
+   "txt": "Serão construídos portos secos em duas localidades de Malawi (Liwonde e Chipoka) e em uma localidade de Zâmbia (Chipata) para assegurar a exportação e a importação eficientes de cargas ferroviárias através do Porto de Nacala (com economia…",
+   "periodo": "",
+   "resumo": "Serão construídos portos secos em duas localidades de Malawi (Liwonde e Chipoka) e em uma localidade de Zâmbia (Chipata) para assegurar a exportação e a importação eficientes de cargas ferroviárias através do Porto de Nacala (com economia de tempo e custo), melhorando assim a atractividade do transporte ferroviário entre Moçambique, Malawi e Zâmbia. Cada porto seco terá 1,2 hectares de área com parque de comboios, armazém aduaneiro, estação de carregamento de contentores e parque de contentores.",
+   "atual": "Na matriz anterior estava agregado com o Porto Seco Central de Malawi"
+  },
+  {
+   "id": "pp24",
+   "n": 24,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Porto de Palma",
+   "sector": "Transportes e Logística",
+   "ministerio": "Ministério dos Transportes e Logística",
+   "executor": "CFM",
+   "localtxt": "Cabo Delgado (Município de Pemba)",
+   "provs": [
+    "cabo-delgado"
+   ],
+   "txt": "Espera-se que em Palma, várias usinas de produção de GNL sejam construídas aproveitando o gás natural proveniente dos campos de gás offshore, para 2018.",
+   "periodo": "",
+   "resumo": "Espera-se que em Palma, várias usinas de produção de GNL sejam construídas aproveitando o gás natural proveniente dos campos de gás offshore, para 2018. Ao mesmo tempo, as indústrias químicas de produção de metanol e amónia com o uso do gás natural deverão ser desenvolvidas na cidade em torno de 2020. Para acomodar estas indústrias relacionadas com o gás natural em Palma e desenvolver eficazmente os sectores de apoio para tais indústrias, é essencial que Palma tenha um porto público. Actualmente, a construção de usinas de GNL é planeada sem uma análise adequada sobre o uso da terra bem como as infraestruturas para as indústrias químicas e o desenvolvimento futuro de Palma. É urgente preparar um plano integrado para o uso da terra e as infrastruturas que apoiarão não apenas a produção de GNL, mas também as indústrias químicas e o futuro desenvolvimento de Palma."
+  },
+  {
+   "id": "pp25",
+   "n": 25,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Capacitação do Órgão Regulador do Sector Ferroviário",
+   "sector": "Transportes e Logística",
+   "ministerio": "Ministério dos Transportes e Logística",
+   "executor": "INATTER",
+   "localtxt": "Maputo",
+   "provs": [],
+   "txt": "O papel do INATTER (Instituto Nacional dos Transportes Terrestres), responsável pela regulamentação e supervisão dos sectores ferroviário e rodoviário, tornar-se-á importante quando a concessionária ferroviária do Corredor de Nacala (Linha…",
+   "periodo": "",
+   "resumo": "O papel do INATTER (Instituto Nacional dos Transportes Terrestres), responsável pela regulamentação e supervisão dos sectores ferroviário e rodoviário, tornar-se-á importante quando a concessionária ferroviária do Corredor de Nacala (Linha Férrea do Norte e novos ramais) entrar em operação brevemente. O projecto fortalecerá a capacidade do INATTER nas áreas de monitoria, orientação dos operadores privados e aplicação dos regulamentos, bem como de recolha de dados estatísticos de transporte, formulação de políticas e programas de transporte, padronização internacional e desenvolvimento da segurança no transporte. O projecto terá uma duração de três anos."
+  },
+  {
+   "id": "pp26",
+   "n": 26,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto da Estrada de Acesso ao Porto de Nacala",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ANE, IP",
+   "localtxt": "Nampula (Município de Nacala)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "O projecto acomodará o aumento previsto do tráfego rodoviário como consequência do incremento da capacidade portuária e do desenvolvimento urbano que terá lugar na Área da Baía de Nacala.",
+   "periodo": "",
+   "resumo": "O projecto acomodará o aumento previsto do tráfego rodoviário como consequência do incremento da capacidade portuária e do desenvolvimento urbano que terá lugar na Área da Baía de Nacala. Esta via de acesso vai se estender a partir da Estrada N12 na direcção do norte até o Porto de Nacala com extensão de 13,5km incluindo uma secção de ponte com comprimento de 0,7km. Inicialmente será uma estrada de duas faixas, que deverá ser expandida para uma estrada com quatro faixas, duas de cada mão."
+  },
+  {
+   "id": "pp27",
+   "n": 27,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Anel Rodoviário Sul de Nampula",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ANE, IP",
+   "localtxt": "Nampula (Município de Nacala e Distrito de Nacala-à-Velha)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "A Cidade de Nampula continuará a crescer como centro de negócios, comercial e industrial da região norte de Moçambique e também como ponto nodal rodoviário de estradas nacionais e inter-regionais.",
+   "periodo": "",
+   "resumo": "A Cidade de Nampula continuará a crescer como centro de negócios, comercial e industrial da região norte de Moçambique e também como ponto nodal rodoviário de estradas nacionais e inter-regionais. O projecto servirá para desviar os tráfegos de passagem da Estrada N13 para/do oeste e da Estrada N1 para/do leste de modo a evitar a concentração do tráfego no centro da cidade. O desvio terá uma extensão de 32,5km e passará ao sul da Cidade de Nampula fazendo parte do anel rodoviário proposto para o futuro, e a sua largura será de 16 metros para o desenvolvimento inicial."
+  },
+  {
+   "id": "pp28",
+   "n": 28,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Melhoria das Passagens de Nível",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ANE, IP",
+   "localtxt": "Nampula (Município de Nampula)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "O projecto minimizará os riscos de acidentes de trânsito e a separação das áreas das comunidades locais que poderão resultar da passagem de comboios com o seu tráfego aumentado.",
+   "periodo": "",
+   "resumo": "O projecto minimizará os riscos de acidentes de trânsito e a separação das áreas das comunidades locais que poderão resultar da passagem de comboios com o seu tráfego aumentado. O projecto propõe três viadutos de duas mãos sobre a Estrada N13 e um viaduto de quatro pistas numa área urbanizada dentro da Cidade de Nampula."
+  },
+  {
+   "id": "pp29",
+   "n": 29,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Anel Rodoviário de Cuamba",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ANE, IP",
+   "localtxt": "Niassa (Município de Cuamba)",
+   "provs": [
+    "niassa"
+   ],
+   "txt": "O projecto servirá para desviar o tráfego de passagem na Estrada N13 de modo a prevenir a degradação do ambiente urbano e minimizar os riscos de acidentes de trânsito e ao mesmo tempo, orientar a expansão da zona urbana para o norte de…",
+   "periodo": "",
+   "resumo": "O projecto servirá para desviar o tráfego de passagem na Estrada N13 de modo a prevenir a degradação do ambiente urbano e minimizar os riscos de acidentes de trânsito e ao mesmo tempo, orientar a expansão da zona urbana para o norte de Cuamba atravessando o rio afluente do Rio Lúrio. O desvio será de duas mãos com cerca de 11km de extensão, incluindo uma ponte de 50m sobre o rio. Um novo troço de estrada a partir do desvio ir-se-á estender da Estrada N13, a aproximadamente 5km a leste de Cuamba, correndo no sentido oeste-noroeste e convergindo para a Estrada N360."
+  },
+  {
+   "id": "pp30",
+   "n": 30,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto da Estrada Cuamba-Marrupa",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ANE, IP",
+   "localtxt": "Niassa (Município de Cuamba e Distritos de Metarica, Maua e Marrupa)",
+   "provs": [
+    "niassa"
+   ],
+   "txt": "O projecto irá disponibilizar uma estrada transitável em todas as condições climáticas entre Cuamba e Marrupa de modo a assegurar às populações ao longo da estrada o acesso durante todo o ano e em qualquer condição climática, assim como a…",
+   "periodo": "",
+   "resumo": "O projecto irá disponibilizar uma estrada transitável em todas as condições climáticas entre Cuamba e Marrupa de modo a assegurar às populações ao longo da estrada o acesso durante todo o ano e em qualquer condição climática, assim como a melhoria do acesso ao mercado para os agricultores das áreas adjacentes que possuem alto potencial agrícola. A estrada será de duas faixas com 236km de extensão."
+  },
+  {
+   "id": "pp31",
+   "n": 31,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Criação de Estações de Serviço e Terminais para Camiões na Estrada N13",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ANE, IP",
+   "localtxt": "Nampula e Niassa",
+   "provs": [
+    "niassa",
+    "nampula"
+   ],
+   "txt": "Serão criadas estações de serviço com terminal para camiões em quatro locais ao longo das Estradas N1 e N12: Namialo, Ribáuè e Malema na Província de Nampula e Cuamba na Província de Niassa.",
+   "periodo": "",
+   "resumo": "Serão criadas estações de serviço com terminal para camiões em quatro locais ao longo das Estradas N1 e N12: Namialo, Ribáuè e Malema na Província de Nampula e Cuamba na Província de Niassa. As estações oferecerão áreas de descanso para camionistas, espaços de estacionamento, serviços de manutenção de veículos, serviços de atendimento de emergência, mercado com produtos locais e serviços de logística (armazenamento, fraccionamento de carga e redistribuição para camiões menores). Cada estação terá uma área de 250 a 400m de comprimento e 100 a 200m de largura."
+  },
+  {
+   "id": "pp32",
+   "n": 32,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto da Fronteira de Paragem Única de Mandimba",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ANE, IP",
+   "localtxt": "Niassa (Distrito de Mandimba)",
+   "provs": [
+    "niassa"
+   ],
+   "txt": "O projecto assegurará a movimentação eficaz de bens, serviços e pessoas a atravessarem a fronteira entre Moçambique e Malawi em Mandimba.",
+   "periodo": "",
+   "resumo": "O projecto assegurará a movimentação eficaz de bens, serviços e pessoas a atravessarem a fronteira entre Moçambique e Malawi em Mandimba. O projecto incluirá a construção de instalações (edifícios, espaços de estacionamento e via de acesso), a aquisição de equipamentos (báscula e scanner de raio-x) e o desenvolvimento de um quadro jurídico e um procedimento de facilitação aduaneira, bem como o treinamento dos funcionários da imigração e alfândega. Será crucial que haja coordenação entre os órgãos governamentais relevantes. O projecto terá uma duração de seis anos, incluindo a projecção, a formulação do quadro jurídico, a construção e o treinamento do pessoal."
+  },
+  {
+   "id": "pp33",
+   "n": 33,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de substituição das Pontes nas Estradas Pemba-Palma-Negomane",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ANE, IP",
+   "localtxt": "Cabo Delgado (Distritos de Macomia, Moçimboa da Praia, Muidumbe e Mueda)",
+   "provs": [
+    "cabo-delgado"
+   ],
+   "txt": "Oito pontes existentes na parte leste da Província de Cabo Delgado serão substituídas, com os seguintes dois objectivos.",
+   "periodo": "",
+   "resumo": "Oito pontes existentes na parte leste da Província de Cabo Delgado serão substituídas, com os seguintes dois objectivos. O primeiro é de melhorar a conexão viária entre Palma e Pemba de modo a favorecer Palma, que serve de base de apoio para a exploração do gás natural bem como base das indústrias químicas usando o gás natural explorado. Para o primeiro objectivo, seis pontes entre Macomia e Oasse estão identificadas para serem substituídas. O segundo objectivo consiste em melhorar a conexão viária entre Tanzania e Palma/Pemba. Em Negomane, na fronteira com Tanzania, existe uma ponte conhecida como “Ponte da Unidade”. Entretanto, no lado Moçambicano não há acesso viário adequado a esta ponte a partir de Palma. Para o segundo objectivo, duas pontes entre Negomane e Mueda estão identificadas para serem substituídas."
+  },
+  {
+   "id": "pp34",
+   "n": 34,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Desenvolvimento do Sistema de Rede de Monitoria Meteorológica e Hidrológica e Capacitação",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ARA-Norte, ARA-Centro",
+   "localtxt": "Nampula, Niassa, Cabo Delgado, Tete e Zambézia",
+   "provs": [
+    "niassa",
+    "cabo-delgado",
+    "nampula",
+    "zambezia",
+    "tete"
+   ],
+   "txt": "O sistema deteriorado da rede de monitoria meteorológica e hidrológica de três autoridades gestoras regionais (ARA-Centro Norte, ARA-Norte e ARA-Zambeze) será reabilitado e melhorado através da aquisição de equipamentos e treinamento dos técnicos da ARA.",
+   "periodo": "",
+   "resumo": "O sistema deteriorado da rede de monitoria meteorológica e hidrológica de três autoridades gestoras regionais (ARA-Centro Norte, ARA-Norte e ARA-Zambeze) será reabilitado e melhorado através da aquisição de equipamentos e treinamento dos técnicos da ARA. O número de equipamentos hidrométricos a serem adquiridos será de 68 e o de equipamentos meteorológicos, de 138. Um total de 15 técnicos da ARA será treinado localmente por seis meses. Os técnicos da DNA serão capacitados para a análise de dados."
+  },
+  {
+   "id": "pp35",
+   "n": 35,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto da Barragem de Sanhute (para o Abastecimento de Água Urbano em Nacala)",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ARA-Centro e Norte",
+   "localtxt": "Nampula (Distrito de Monapo / Área da Baía de Nacala)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "A Barragem de Sanhute será construída a aproximadamente 39km a sudoeste da Cidade de Nacala, ao longo da Estrada N12.",
+   "periodo": "",
+   "resumo": "A Barragem de Sanhute será construída a aproximadamente 39km a sudoeste da Cidade de Nacala, ao longo da Estrada N12. Da nova barragem, um volume de água aproximado de 40.000m3 por dia será transferido para a actual Barragem de Maecula, a ser localizada a cerca de 9km da Barragem de Sanhute, e transportado mais adiante para a área de Nacala através da canalização existente. Um estudo de viabilidade já foi concluído.",
+   "atual": "Na matriz anterior estava agregado com a Barragem de Monte Tiza"
+  },
+  {
+   "id": "pp36",
+   "n": 36,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto da Barragem de Monte Tiza (para o Abastecimento de Água Urbano em Nampula)",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "ARA-Centro e Norte",
+   "localtxt": "Nampula",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "A Barragem de Sanhute será construída a aproximadamente 39km a sudoeste da Cidade de Nacala, ao longo da Estrada N12.",
+   "periodo": "",
+   "resumo": "A Barragem de Sanhute será construída a aproximadamente 39km a sudoeste da Cidade de Nacala, ao longo da Estrada N12. Da nova barragem, um volume de água aproximado de 40.000m3 por dia será transferido para a actual Barragem de Maecula, a ser localizada a cerca de 9km da Barragem de Sanhute, e transportado mais adiante para a área de Nacala através da canalização existente. Um estudo de viabilidade já foi concluído.",
+   "atual": "Na matriz anterior estava agregado com a Barragem de Sanhute"
+  },
+  {
+   "id": "pp37",
+   "n": 37,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Estudo sobre Gestão Integrada de Recursos Hídricos das Bacias Hidrográficas ao Redor das Áreas da Baía de Nacala e da Bacia do Rio Lúrio",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "DNAAS, ARA-Centro e Norte",
+   "localtxt": "Distritos abrangidos pelas bacias hidrográficas ao redor da Área da Baía de Nacala na Província de Nampula e outros distritos da província de Nampula, Cabo Delgado e Niassa cobertos pela Bacia do Rio Lúrio",
+   "provs": [
+    "niassa",
+    "cabo-delgado",
+    "nampula"
+   ],
+   "txt": "Para atender o crescimento de áreas urbanas e das actividades económicas na Área da Baía de Nacala, a utilização dos recursos hídricos das bacias hidrográficas próximos à Área da Baía de Nacala, incluindo a construção da Barragem de…",
+   "periodo": "",
+   "resumo": "Para atender o crescimento de áreas urbanas e das actividades económicas na Área da Baía de Nacala, a utilização dos recursos hídricos das bacias hidrográficas próximos à Área da Baía de Nacala, incluindo a construção da Barragem de Sanhute, são soluções de curto prazo, mas é essencial utilizar os recursos hídricos com base num estudo de gestão integrada dos recursos hídricos não apenas de pequenas bacias hidrográficas ao redor da Área da Baía de Nacala, mas também da Bacia do rio Lúrio. Para tanto, conforme descrito na Secção 15.5 (Estratégias de Desenvolvimento de Recursos Hídricos) da Estratégia, o fortalecimento do sistema de rede de observação meteorológica e hidrológica é de necessidade imediata. Com base no sistema melhorado de coleta de dados, é necessário estabelecer um sistema de gestão integrada dos recursos hídricos. Assim torna-se possível formular soluções mais concretas e tecnicamente viáveis ​​e ambientalmente consideradas para atender rapidamente à crescente demanda de água na Área da Baía de Nacala. Assim é aconselhado começar a consideração de várias medidas a respeito deste projecto proposto (Projecto de Estudo sobre Gestão Integrada de Recursos Hídricos das Bacias Hidrográficas ao Redor das Áreas da Baía de Nacala e da Bacia do Rio Lúrio). Neste projecto de estudo é fortemente recomendado prestar muita atenção ao meio ambiente relacionado à água das bacias hidrográficas tendo em conta o desenvolvimento dos seus recursos hídricos. Além disso, levando-se em conta que o volume de águas (tanto águas superficiais como subterrâneas) utilizáveis ​​a partir de pequenas bacias de rios ao redor da Área da Baía de Nacala e da Bacia do Rio Lúrio poderão ser insuficientes para satisfazer plenamente a crescente demanda de água na Área da Baía de Nacala, devemos considerar outras medidas neste projecto de estudo, incluindo usinas de dessalinização."
+  },
+  {
+   "id": "pp38",
+   "n": 38,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Abastecimento de Água Urbano de Palma",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "DNAAS",
+   "localtxt": "Cabo Delgado (Distrito de Palma)",
+   "provs": [
+    "cabo-delgado"
+   ],
+   "txt": "O abastecimento de água nas zonas urbanas será expandido para atender à crescente demanda por água devido ao aumento da população urbana e ao desenvolvimento de sectores de apoio para a exploração do gás natural e potenciais indústrias químicas.",
+   "periodo": ""
+  },
+  {
+   "id": "pp39",
+   "n": 39,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de expansão do abastecimento de agua urbana de Nacala",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "FIPAG",
+   "localtxt": "Nampula (Município de Nacala e Distrito de Nacala-a-Velha)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "",
+   "periodo": ""
+  },
+  {
+   "id": "pp40",
+   "n": 40,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto de Expansão Urbana de Palma",
+   "sector": "Obras Públicas, Habitação e Recursos Hídricos",
+   "ministerio": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "executor": "A ser definido.",
+   "localtxt": "Cabo Delgado",
+   "provs": [
+    "cabo-delgado"
+   ],
+   "txt": "Palma precisa estar em condições de satisfazer as necessidades de um número cada vez crescente de migrantes que afluem para a cidade e a uma grande expansão das zonas urbanas.",
+   "periodo": "",
+   "resumo": "Palma precisa estar em condições de satisfazer as necessidades de um número cada vez crescente de migrantes que afluem para a cidade e a uma grande expansão das zonas urbanas. Estradas urbanas, drenos de água, linhas de transmissão eléctrica e redes de abastecimento de água serão disponibilizadas nas zonas urbanas expandidas. Este projecto de expansão urbana também disponibilizará locais para uma variedade de serviços sociais, hospitais, centros e postos de saúde e escolas."
+  },
+  {
+   "id": "pp41",
+   "n": 41,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Programa de Gestão Escolar Baseada na Comunidade",
+   "sector": "Educação e Cultura",
+   "ministerio": "Ministério da Educação e Cultura",
+   "executor": "Ministério da Educação e Cultura",
+   "localtxt": "Nampula, Niassa, Cabo Delgado, Tete e Zambézia",
+   "provs": [
+    "niassa",
+    "cabo-delgado",
+    "nampula",
+    "zambezia",
+    "tete"
+   ],
+   "txt": "O projecto visa a melhoria da qualidade da educação por meio da promoção da participação comunitária na gestão de escolas primárias.",
+   "periodo": "",
+   "resumo": "O projecto visa a melhoria da qualidade da educação por meio da promoção da participação comunitária na gestão de escolas primárias. Aproveitando-se a organização existente denominada de “conselho escolar”, serão implementadas actividades de gestão escolar incluindo a reabilitação de edifícios escolares, através da mobilização de recursos comunitários sob a supervisão dos governos distrital e provincial. O projecto terá uma duração de dois anos."
+  },
+  {
+   "id": "pp42",
+   "n": 42,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Programa de Melhoria do Ensino Secundário com Foco em Ciências e Matemática",
+   "sector": "Educação e Cultura",
+   "ministerio": "Ministério da Educação e Cultura",
+   "executor": "Ministério da Educação e Cultura",
+   "localtxt": "Nampula, Niassa, Cabo Delgado, Tete e Zambézia",
+   "provs": [
+    "niassa",
+    "cabo-delgado",
+    "nampula",
+    "zambezia",
+    "tete"
+   ],
+   "txt": "O projecto visa a melhoria da qualidade do ensino secundário com foco nas disciplinas de ciências e matemáticas, de modo a desenvolver o capital humano que contribuirá para o crescimento económico do país.",
+   "periodo": "",
+   "resumo": "O projecto visa a melhoria da qualidade do ensino secundário com foco nas disciplinas de ciências e matemáticas, de modo a desenvolver o capital humano que contribuirá para o crescimento económico do país. Será desenvolvido um sistema de treinamento em cascata aos níveis central, provincial e distrital, sendo este último que é ligado directamente às escolas. Também serão preparados manuais de ensino para professores. O projecto terá uma duração de três anos."
+  },
+  {
+   "id": "pp43",
+   "n": 43,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto da Escola Técnico-Profissional de Nível Médio em Nacala",
+   "sector": "Educação e Cultura",
+   "ministerio": "Ministério da Educação e Cultura",
+   "executor": "Ministério da Educação e Cultura",
+   "localtxt": "Nampula (Município de Nacala)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "Na Área da Baía de Nacala, será criada uma escola técnico-profissional de nível médio, a qual oferecerá o ensino e treinamentos técnicos e profissionais voltados para os sectores dos transportes, logística, manufactura e serviços.",
+   "periodo": "",
+   "resumo": "Na Área da Baía de Nacala, será criada uma escola técnico-profissional de nível médio, a qual oferecerá o ensino e treinamentos técnicos e profissionais voltados para os sectores dos transportes, logística, manufactura e serviços. A procura pela mão-de-obra qualificada dos investidores estrangeiros actuando em Nacala será satisfeita localmente. O projecto inclui a planificação de conceitos, estudo de viabilidade, desenho detalhado, construção, aquisição dos equipamentos, elaboração de programas educacionais e currículos didácticos, capacitação de professores e desenvolvimento institucional."
+  },
+  {
+   "id": "pp44",
+   "n": 44,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto da Escola Técnico-Profissional de Nível Médio em Cabo Delgado",
+   "sector": "Educação e Cultura",
+   "ministerio": "Ministério da Educação e Cultura",
+   "executor": "Ministério da Educação e Cultura",
+   "localtxt": "Cabo Delgado (Distrito de Palma)",
+   "provs": [
+    "cabo-delgado"
+   ],
+   "txt": "Será criada em Palma uma escola técnico-profissional de nível médio, a qual oferecerá o ensino e treinamentos técnicos e profissionais visando a adaptação às tecnologias para as indústrias do gás natural e outras relacionadas.",
+   "periodo": "",
+   "resumo": "Será criada em Palma uma escola técnico-profissional de nível médio, a qual oferecerá o ensino e treinamentos técnicos e profissionais visando a adaptação às tecnologias para as indústrias do gás natural e outras relacionadas. Trata-se do desenvolvimento da actual Escola Profissional de Macomia. A procura pela mão-de-obra qualificada dos investidores estrangeiros actuando em Palma será atendida localmente. O projecto inclui a planificação de conceitos, estudo de viabilidade, desenho detalhado, construção, aquisição dos equipamentos, elaboração de programas educacionais e currículos didácticos, capacitação de professores e desenvolvimento institucional."
+  },
+  {
+   "id": "pp45",
+   "n": 45,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Instituto Superior Politécnico em Nacala",
+   "sector": "Educação e Cultura",
+   "ministerio": "Ministério da Educação e Cultura",
+   "executor": "Ministério da Educação e Cultura",
+   "localtxt": "Nampula (Município de Nacala)",
+   "provs": [
+    "nampula"
+   ],
+   "txt": "O Instituto Superior Politécnico de Nacala será estabelecido na Área da Baía de Nacala e vai ofercer um ensino prático e técnico de mais alto nível, relacionado com os sectores dos transportes, logística, manufactura e serviços incluindo o turismo.",
+   "periodo": "",
+   "resumo": "O Instituto Superior Politécnico de Nacala será estabelecido na Área da Baía de Nacala e vai ofercer um ensino prático e técnico de mais alto nível, relacionado com os sectores dos transportes, logística, manufactura e serviços incluindo o turismo. A procura pelos engenheiros e técnicos dos investidores estrangeiros sediados na ZEE de Nacala será satisfeita localmente. O projecto inclui a planificação de conceitos, estudo de viabilidade, desenho detalhado, construção, aquisição dos equipamentos, elaboração de programas educacionais e currículos didácticos, capacitação de professores e desenvolvimento institucional."
+  },
+  {
+   "id": "pp46",
+   "n": 46,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Projecto do Instituto Superior Politécnico em Cabo Delgado",
+   "sector": "Educação e Cultura",
+   "ministerio": "Ministério da Educação e Cultura",
+   "executor": "Ministério da Educação e Cultura",
+   "localtxt": "Cabo Delgado (Município de Pemba)",
+   "provs": [
+    "cabo-delgado"
+   ],
+   "txt": "Será criado um Instituto Superior Politécnico de Cabo Delgado em Pemba ou Palma, e oferecerá o ensino prático e técnico de mais alto nível, relativo às indústrias do gás natural e outras relacionadas.",
+   "periodo": "",
+   "resumo": "Será criado um Instituto Superior Politécnico de Cabo Delgado em Pemba ou Palma, e oferecerá o ensino prático e técnico de mais alto nível, relativo às indústrias do gás natural e outras relacionadas. A procura pelos engenheiros e técnicos dos investidores estrangeiros actuando em Palma será atendida localmente. O projecto inclui a planificação de conceitos, estudo de viabilidade, desenho detalhado, construção, aquisição dos equipamentos, elaboração de programas educacionais e currículos didácticos, capacitação de professores e desenvolvimento institucional."
+  },
+  {
+   "id": "pp47",
+   "n": 47,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Programa de Melhoria das Escolas Primárias nas Zonas Menos Acessíveis",
+   "sector": "Educação e Cultura",
+   "ministerio": "Ministério da Educação e Cultura",
+   "executor": "Ministério da Educação e Cultura",
+   "localtxt": "Niassa e Cabo Delgado",
+   "provs": [
+    "niassa",
+    "cabo-delgado"
+   ],
+   "txt": "Nas zonas menos acessíveis, distantes dos corredores de transporte, a situação das escolas primárias será melhorada em termos de edifícios, móveis escolares e casas de professores, assim como de gestão escolar.",
+   "periodo": "",
+   "resumo": "Nas zonas menos acessíveis, distantes dos corredores de transporte, a situação das escolas primárias será melhorada em termos de edifícios, móveis escolares e casas de professores, assim como de gestão escolar. Neste programa, serão mobilizados primeiramente, esforços e recursos do Governo incluindo o orçamento, de modo a melhorar a situação das escolas primárias nas zonas menos acessíveis. Em seguida, serão promovidas iniciativas das comunidades de participar na gestão escolar."
+  },
+  {
+   "id": "pp48",
+   "n": 48,
+   "estado": "futuro",
+   "fase": "Informação em actualização pelo sector",
+   "prioritario": true,
+   "nome": "Programa de Melhoria dos Centros de Saúde nas Zonas Menos Acessíveis",
+   "sector": "Saúde",
+   "ministerio": "Ministério da Saúde",
+   "executor": "Ministério da Saúde",
+   "localtxt": "Niassa e Cabo Delgado",
+   "provs": [
+    "niassa",
+    "cabo-delgado"
+   ],
+   "txt": "Nas zonas menos acessíveis, distantes dos corredores de transporte, a situação dos centros de saúde será melhorada em termos de edifícios, equipamentos e casas para funcionários de saúde, assim como de gestão dos centros de saúde.",
+   "periodo": "",
+   "resumo": "Nas zonas menos acessíveis, distantes dos corredores de transporte, a situação dos centros de saúde será melhorada em termos de edifícios, equipamentos e casas para funcionários de saúde, assim como de gestão dos centros de saúde. Neste programa, serão mobilizados primeiramente, esforços e recursos do Governo incluindo o orçamento, de modo a melhorar a situação dos centros de saúde nas zonas menos acessíveis. Em seguida, serão promovidas iniciativas das comunidades de participar nas actividades de cuidados de saúde primários a nível comunitário."
+  }
+ ],
+ "faq": [
+  {
+   "id": "q1",
+   "pergunta": "O que é o PEDEC-Nacala?",
+   "resposta": [
+    "É o Plano Estratégico de Desenvolvimento Económico do Corredor de Nacala.",
+    "O plano define onde investir, em que cadeias de valor e com que parceiros, para que o crescimento chegue às comunidades. Foi aprovado pela Resolução n.º 44/2016, de 30 de Dezembro."
+   ],
+   "palavras": [
+    "pedec",
+    "estrategico",
+    "nacala",
+    "o que e",
+    "significa",
+    "objectivo",
+    "para que serve",
+    "plano estrategico"
+   ],
+   "link": {
+    "rotulo": "Ver o plano",
+    "href": "#pedec-nacala"
+   },
+   "sugerida": true,
+   "fonte": {
+    "rotulo": "Resolução n.º 44/2016",
+    "href": "#pedec-nacala"
+   }
+  },
+  {
+   "id": "q2",
+   "pergunta": "O que é a UTI PEDEC-Nacala e o que faz?",
+   "resposta": [
+    "A UTI é a Unidade Técnica de Implementação do PEDEC-Nacala. Foi criada pelo Diploma Ministerial n.º 134/2025 e é tutelada pelo Ministério da Planificação e Desenvolvimento.",
+    "Transforma o plano em projectos concretos. Faz quatro coisas: coordena, prepara projectos, monitora e avalia, e articula parcerias."
+   ],
+   "palavras": [
+    "uti",
+    "unidade",
+    "tecnica",
+    "implementacao",
+    "quem somos",
+    "vos",
+    "voces",
+    "faz",
+    "funcoes",
+    "trabalho"
+   ],
+   "link": {
+    "rotulo": "O que fazemos",
+    "href": "#o-que-fazemos"
+   },
+   "sugerida": true,
+   "fonte": {
+    "rotulo": "Diploma Ministerial n.º 134/2025",
+    "href": "#sobre-nos"
+   }
+  },
+  {
+   "id": "q3",
+   "pergunta": "O que é o Corredor de Nacala?",
+   "resposta": [
+    "É o eixo que liga o porto de Nacala, em Nampula, ao interior do país, por ferrovia e estradas.",
+    "O PEDEC-Nacala procura que esse eixo traga desenvolvimento às zonas por onde passa: mais produção, mais emprego e mais rendimento para as comunidades."
+   ],
+   "palavras": [
+    "corredor",
+    "porto",
+    "ferrovia",
+    "caminho de ferro",
+    "comboio",
+    "linha",
+    "eixo",
+    "estrada"
+   ],
+   "link": {
+    "rotulo": "Ver o mapa",
+    "href": "#area-geografica"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Secção PEDEC-Nacala",
+    "href": "#pedec-nacala"
+   }
+  },
+  {
+   "id": "q4",
+   "pergunta": "Que províncias fazem parte?",
+   "resposta": [
+    "Cinco: Niassa, Cabo Delgado, Nampula, Zambézia e Tete.",
+    "Juntas têm cerca de 18 milhões de habitantes e cerca de 499 mil km² (Censo 2017, valores aproximados).",
+    "A UTI tem pontos focais nas capitais provinciais: Lichinga, Pemba, Nampula, Quelimane e Tete."
+   ],
+   "palavras": [
+    "provincias",
+    "provincia",
+    "onde",
+    "abrange",
+    "zona",
+    "regiao",
+    "distritos",
+    "cobre"
+   ],
+   "link": {
+    "rotulo": "Mapa interactivo",
+    "href": "#area-geografica"
+   },
+   "sugerida": true,
+   "fonte": {
+    "rotulo": "Área geográfica (Censo 2017, INE)",
+    "href": "#area-geografica"
+   }
+  },
+  {
+   "id": "q5",
+   "pergunta": "Fale-me de Niassa",
+   "resposta": [
+    "Niassa tem capital em Lichinga, cerca de 1 811 000 habitantes e 129 056 km² (Censo 2017, valores aproximados).",
+    "Destaques: A maior província do país em área; Reserva Nacional do Niassa e Lago Niassa; Cuamba, nó ferroviário do Corredor de Nacala."
+   ],
+   "palavras": [
+    "niassa",
+    "lichinga",
+    "provincia de niassa"
+   ],
+   "link": {
+    "rotulo": "Ver Niassa no mapa",
+    "href": "prov:niassa"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Área geográfica (Censo 2017, INE)",
+    "href": "#area-geografica"
+   }
+  },
+  {
+   "id": "q6",
+   "pergunta": "Fale-me de Cabo Delgado",
+   "resposta": [
+    "Cabo Delgado tem capital em Pemba, cerca de 2 320 000 habitantes e 82 625 km² (Censo 2017, valores aproximados).",
+    "Destaques: Costa com o arquipélago das Quirimbas; Porto de Pemba e pesca artesanal; Gás natural, rubis e grafite."
+   ],
+   "palavras": [
+    "cabo delgado",
+    "pemba",
+    "provincia de cabo delgado"
+   ],
+   "link": {
+    "rotulo": "Ver Cabo Delgado no mapa",
+    "href": "prov:cabo-delgado"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Área geográfica (Censo 2017, INE)",
+    "href": "#area-geografica"
+   }
+  },
+  {
+   "id": "q7",
+   "pergunta": "Fale-me de Nampula",
+   "resposta": [
+    "Nampula tem capital em Nampula, cerca de 6 103 000 habitantes e 81 606 km² (Censo 2017, valores aproximados).",
+    "Destaques: A província mais populosa do país; Porto de Nacala, saída do Corredor; Ilha de Moçambique, Património Mundial da UNESCO."
+   ],
+   "palavras": [
+    "nampula",
+    "nampula",
+    "provincia de nampula"
+   ],
+   "link": {
+    "rotulo": "Ver Nampula no mapa",
+    "href": "prov:nampula"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Área geográfica (Censo 2017, INE)",
+    "href": "#area-geografica"
+   }
+  },
+  {
+   "id": "q8",
+   "pergunta": "Fale-me de Zambézia",
+   "resposta": [
+    "Zambézia tem capital em Quelimane, cerca de 5 111 000 habitantes e 105 008 km² (Censo 2017, valores aproximados).",
+    "Destaques: A segunda província mais populosa; Grande potencial agrícola, do chá ao arroz; Delta do Zambeze e pesca de camarão."
+   ],
+   "palavras": [
+    "zambézia",
+    "quelimane",
+    "provincia de zambézia"
+   ],
+   "link": {
+    "rotulo": "Ver Zambézia no mapa",
+    "href": "prov:zambezia"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Área geográfica (Censo 2017, INE)",
+    "href": "#area-geografica"
+   }
+  },
+  {
+   "id": "q9",
+   "pergunta": "Fale-me de Tete",
+   "resposta": [
+    "Tete tem capital em Tete, cerca de 2 649 000 habitantes e 100 724 km² (Censo 2017, valores aproximados).",
+    "Destaques: Carvão mineral de Moatize; Barragem de Cahora Bassa, grande produtora de electricidade; Fronteira com Zâmbia, Malawi e Zimbabwe."
+   ],
+   "palavras": [
+    "tete",
+    "tete",
+    "provincia de tete"
+   ],
+   "link": {
+    "rotulo": "Ver Tete no mapa",
+    "href": "prov:tete"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Área geográfica (Censo 2017, INE)",
+    "href": "#area-geografica"
+   }
+  },
+  {
+   "id": "q10",
+   "pergunta": "Como é que a minha comunidade pode beneficiar?",
+   "resposta": [
+    "O plano actua em quatro frentes:",
+    "1) Infra-estruturas e logística: estradas, ferrovia, portos e plataformas, com energia e comunicações ao longo do corredor.",
+    "2) Cadeias de valor: processamento local, acesso a mercados e apoio a associações e pequenos produtores.",
+    "3) Pessoas e comunidades: formação técnico-profissional, emprego e empreendedorismo local e serviços básicos, com atenção especial a mulheres e jovens.",
+    "4) Governação e parcerias: coordenação, monitoria e prestação de contas.",
+    "Os projectos concretos de cada zona estão na secção Projectos."
+   ],
+   "palavras": [
+    "beneficiar",
+    "beneficio",
+    "comunidade",
+    "vantagem",
+    "ganhar",
+    "ajuda",
+    "apoio",
+    "apoiar",
+    "ganho",
+    "populacao",
+    "camponeses",
+    "produtores",
+    "associacao"
+   ],
+   "link": {
+    "rotulo": "Ver projectos",
+    "href": "#projectos"
+   },
+   "sugerida": true,
+   "fonte": {
+    "rotulo": "Pilares do plano, secção PEDEC-Nacala",
+    "href": "#pedec-nacala"
+   }
+  },
+  {
+   "id": "q11",
+   "pergunta": "Que sectores e áreas de intervenção existem?",
+   "resposta": [
+    "As áreas de intervenção são seis: Infra-estruturas e logística; Agricultura e agro-indústria; Energia; Recursos minerais; Turismo e conservação; Pescas e economia azul.",
+    "Em cada área há sectores concretos, por exemplo: culturas alimentares e de rendimento; processamento agro-industrial; silvicultura (na agricultura) ou energia hídrica; energia solar; electrificação rural (na energia)."
+   ],
+   "palavras": [
+    "sectores",
+    "sector",
+    "areas",
+    "intervencao",
+    "agricultura",
+    "energia",
+    "pescas",
+    "turismo",
+    "minerais",
+    "minas",
+    "logistica",
+    "carvao",
+    "pesca"
+   ],
+   "link": {
+    "rotulo": "Ver áreas de intervenção",
+    "href": "#areas"
+   },
+   "sugerida": true,
+   "fonte": {
+    "rotulo": "Secção Áreas de intervenção",
+    "href": "#areas"
+   }
+  },
+  {
+   "id": "q12",
+   "pergunta": "Há emprego, formação ou vagas?",
+   "resposta": [
+    "Este site é o canal oficial de informação da UTI. Consulte as secções Notícias, Eventos e Projectos para saber o que está em curso.",
+    "O plano prevê formação técnico-profissional e emprego local, mas as oportunidades concretas dependem de cada projecto.",
+    "Nunca pague dinheiro para conseguir emprego, formação ou apoio em nome do PEDEC-Nacala."
+   ],
+   "palavras": [
+    "emprego",
+    "trabalho",
+    "vaga",
+    "vagas",
+    "formacao",
+    "curso",
+    "estagio",
+    "recrutamento",
+    "contratacao",
+    "concurso",
+    "candidatura",
+    "trabalhar"
+   ],
+   "link": {
+    "rotulo": "Ver notícias e eventos",
+    "href": "#publicacoes"
+   },
+   "sugerida": true,
+   "fonte": {
+    "rotulo": "Secção Notícias e eventos",
+    "href": "#publicacoes"
+   }
+  },
+  {
+   "id": "q13",
+   "pergunta": "Como posso apresentar uma ideia ou projecto?",
+   "resposta": [
+    "Escreva-nos pelo formulário da secção Contactos e escolha o assunto Projectos. Se representa uma empresa ou quer investir, escolha Parcerias e investimento.",
+    "A UTI apoia estudos, desenho técnico e preparação de propostas até ficarem prontas para financiamento. Explique bem a ideia, o local e quem beneficia."
+   ],
+   "palavras": [
+    "ideia",
+    "proposta",
+    "apresentar",
+    "submeter",
+    "propor",
+    "projecto meu",
+    "investir",
+    "investimento",
+    "investidor",
+    "parceria",
+    "empresa",
+    "negocio"
+   ],
+   "link": {
+    "rotulo": "Ir para Contactos",
+    "href": "#contactos"
+   },
+   "sugerida": true,
+   "fonte": {
+    "rotulo": "Secção O que fazemos",
+    "href": "#o-que-fazemos"
+   }
+  },
+  {
+   "id": "q14",
+   "pergunta": "Como posso contactar a UTI?",
+   "resposta": [
+    "Use o formulário da secção Contactos. Preencha o nome, o correio electrónico, o assunto e a mensagem.",
+    "A morada da sede, o correio electrónico e o telefone serão indicados nessa mesma secção. Há também pontos focais nas capitais provinciais."
+   ],
+   "palavras": [
+    "contacto",
+    "contactar",
+    "contactos",
+    "telefone",
+    "email",
+    "e-mail",
+    "morada",
+    "endereco",
+    "sede",
+    "escrever",
+    "falar",
+    "ligar",
+    "numero"
+   ],
+   "link": {
+    "rotulo": "Ir para Contactos",
+    "href": "#contactos"
+   },
+   "sugerida": true,
+   "fonte": {
+    "rotulo": "Secção Contactos",
+    "href": "#contactos"
+   }
+  },
+  {
+   "id": "q15",
+   "pergunta": "Quem tutela a UTI?",
+   "resposta": [
+    "A UTI é tutelada pelo Ministério da Planificação e Desenvolvimento. O Ministro é Salim Cripton Valá.",
+    "Desde a Resolução n.º 49/2025 a coordenação do PEDEC-Nacala está a cargo do Ministro da Planificação e Desenvolvimento."
+   ],
+   "palavras": [
+    "tutela",
+    "tutelada",
+    "ministerio",
+    "ministro",
+    "planificacao",
+    "vala",
+    "quem dirige",
+    "director",
+    "governo",
+    "presidente"
+   ],
+   "link": {
+    "rotulo": "Sobre nós",
+    "href": "#sobre-nos"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Secção Sobre nós",
+    "href": "#sobre-nos"
+   }
+  },
+  {
+   "id": "q16",
+   "pergunta": "Em que leis assenta o PEDEC-Nacala?",
+   "resposta": [
+    "Resolução n.º 44/2016, de 30 de Dezembro: aprova o PEDEC-Nacala.",
+    "Resolução n.º 49/2025, de 5 de Dezembro: altera a coordenação para o Ministro da Planificação e Desenvolvimento e autoriza a criação da UTI.",
+    "Diploma Ministerial n.º 134/2025, de 31 de Dezembro: cria a UTI-PEDEC-Nacala.",
+    "Diploma Ministerial n.º 49/2026, de 26 de Junho: aprova o Regulamento Interno da UTI."
+   ],
+   "palavras": [
+    "lei",
+    "leis",
+    "legal",
+    "legislacao",
+    "resolucao",
+    "diploma",
+    "decreto",
+    "regulamento",
+    "enquadramento",
+    "criada",
+    "criacao",
+    "aprovado"
+   ],
+   "link": {
+    "rotulo": "Enquadramento legal",
+    "href": "#sobre-nos"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Enquadramento legal, secção Sobre nós",
+    "href": "#sobre-nos"
+   }
+  },
+  {
+   "id": "q17",
+   "pergunta": "Onde vejo notícias, eventos e projectos?",
+   "resposta": [
+    "Na secção Publicações há Notícias e Eventos. Os Projectos activos e futuros têm uma secção própria, com filtro por província.",
+    "Pode abrir cada uma tocando no título da secção."
+   ],
+   "palavras": [
+    "noticias",
+    "noticia",
+    "eventos",
+    "evento",
+    "agenda",
+    "publicacoes",
+    "novidades",
+    "projectos",
+    "projecto",
+    "activos",
+    "futuros",
+    "andamento",
+    "obras"
+   ],
+   "link": {
+    "rotulo": "Ver Publicações",
+    "href": "#publicacoes"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Secção Notícias e eventos",
+    "href": "#publicacoes"
+   }
+  },
+  {
+   "id": "q18",
+   "pergunta": "Tenho um problema com terra, casa ou compensação. O que faço?",
+   "resposta": [
+    "Este assistente não resolve casos individuais.",
+    "Descreva a situação pelo formulário da secção Contactos (assunto Informação geral), indicando o distrito e a localidade. Dirija-se também aos serviços do seu distrito e da sua província, que acompanham cada caso."
+   ],
+   "palavras": [
+    "terra",
+    "terreno",
+    "machamba",
+    "duat",
+    "reassentamento",
+    "compensacao",
+    "indemnizacao",
+    "casa",
+    "expropriacao",
+    "queixa",
+    "reclamacao",
+    "problema",
+    "denuncia"
+   ],
+   "link": {
+    "rotulo": "Escrever à UTI",
+    "href": "#contactos"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Secção Contactos",
+    "href": "#contactos"
+   }
+  },
+  {
+   "id": "q19",
+   "pergunta": "Como evito ser enganado?",
+   "resposta": [
+    "Ninguém deve pedir dinheiro para entrar em projectos, dar emprego ou garantir apoio em nome do PEDEC-Nacala.",
+    "Em caso de dúvida, confirme sempre pelos canais oficiais desta página, na secção Contactos, antes de dar dinheiro ou documentos pessoais."
+   ],
+   "palavras": [
+    "burla",
+    "enganar",
+    "enganado",
+    "fraude",
+    "falso",
+    "golpe",
+    "dinheiro",
+    "pagar",
+    "pagamento",
+    "cobrar",
+    "gratis",
+    "gratuito",
+    "confiar"
+   ],
+   "link": {
+    "rotulo": "Ir para Contactos",
+    "href": "#contactos"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Secção Contactos",
+    "href": "#contactos"
+   }
+  },
+  {
+   "id": "q20",
+   "pergunta": "Quantas pessoas vivem no corredor?",
+   "resposta": [
+    "Cerca de 18 milhões de pessoas vivem nas cinco províncias, segundo o Censo 2017 do INE (valores aproximados). Nampula é a mais populosa, com mais de 6 milhões."
+   ],
+   "palavras": [
+    "populacao",
+    "habitantes",
+    "pessoas",
+    "quantos",
+    "quantas",
+    "censo",
+    "numero de pessoas"
+   ],
+   "link": {
+    "rotulo": "Ver o mapa",
+    "href": "#area-geografica"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Área geográfica (Censo 2017, INE)",
+    "href": "#area-geografica"
+   }
+  },
+  {
+   "id": "q21",
+   "pergunta": "Que ministérios participam no PEDEC-Nacala?",
+   "resposta": [
+    "Participam 12 ministérios, cada um nas suas áreas de intervenção: da Planificação e Desenvolvimento; da Economia (Turismo); das Finanças; da Agricultura, Ambiente e Pescas; dos Transportes e Logística; dos Recursos Minerais e Energia; das Obras Públicas, Habitação e Recursos Hídricos; das Comunicações e Transformação Digital; da Educação e Cultura; do Trabalho, Género e Acção Social; da Juventude e Desportos; da Administração Estatal e Função Pública.",
+    "Por exemplo, as cadeias de valor agrícolas cabem ao Ministério da Agricultura, Ambiente e Pescas, a ferrovia e os portos ao Ministério dos Transportes e Logística, e a energia e os minerais ao Ministério dos Recursos Minerais e Energia."
+   ],
+   "palavras": [
+    "ministerios",
+    "ministerio",
+    "quem participa",
+    "quem faz",
+    "responsavel",
+    "responsaveis",
+    "sectores do governo",
+    "instituicoes",
+    "envolvidos"
+   ],
+   "link": {
+    "rotulo": "Ver por ministério",
+    "href": "#areas"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Áreas de intervenção",
+    "href": "#areas"
+   }
+  },
+  {
+   "id": "q22",
+   "pergunta": "Onde posso ler ou descarregar as leis em PDF?",
+   "resposta": [
+    "O enquadramento legal está na secção Sobre nós. Cada diploma tem um botão para descarregar o PDF quando o ficheiro estiver publicado.",
+    "Também pode procurar na secção Documentos, por categoria Legislação."
+   ],
+   "palavras": [
+    "pdf",
+    "descarregar",
+    "baixar",
+    "download",
+    "lei",
+    "leis",
+    "diploma",
+    "resolucao",
+    "documento oficial",
+    "legislacao"
+   ],
+   "link": {
+    "rotulo": "Ver enquadramento legal",
+    "href": "#sobre-nos"
+   },
+   "sugerida": false,
+   "fonte": {
+    "rotulo": "Enquadramento legal",
+    "href": "#sobre-nos"
+   }
+  }
+ ],
+ "actualizado": "2026-11-01",
+ "contactos": {
+  "sede": "",
+  "email": "",
+  "telefone": "",
+  "horario": ""
+ },
+ "documentos": [
+  {
+   "id": "d1",
+   "titulo": "Resolução n.º 44/2016, de 30 de Dezembro",
+   "categoria": "Legislação",
+   "ano": "2016",
+   "descricao": "Aprova o Plano Estratégico de Desenvolvimento Económico do Corredor de Nacala (PEDEC-Nacala).",
+   "ficheiro": ""
+  },
+  {
+   "id": "d2",
+   "titulo": "Resolução n.º 49/2025, de 5 de Dezembro",
+   "categoria": "Legislação",
+   "ano": "2025",
+   "descricao": "Altera a coordenação do PEDEC-Nacala para o Ministro da Planificação e Desenvolvimento e autoriza a criação da UTI.",
+   "ficheiro": ""
+  },
+  {
+   "id": "d3",
+   "titulo": "Diploma Ministerial n.º 134/2025, de 31 de Dezembro",
+   "categoria": "Legislação",
+   "ano": "2025",
+   "descricao": "Cria a Unidade Técnica de Implementação do PEDEC-Nacala.",
+   "ficheiro": ""
+  },
+  {
+   "id": "d4",
+   "titulo": "Diploma Ministerial n.º 49/2026, de 26 de Junho",
+   "categoria": "Legislação",
+   "ano": "2026",
+   "descricao": "Aprova o Regulamento Interno da UTI-PEDEC-Nacala.",
+   "ficheiro": ""
+  }
+ ],
+ "ministerios": [
+  {
+   "id": "min-planificacao",
+   "nome": "Ministério da Planificação e Desenvolvimento",
+   "papel": "Tutela a UTI e coordena o PEDEC-Nacala",
+   "areas": [
+    "Coordenação do PEDEC-Nacala",
+    "Planificação e monitoria do desenvolvimento",
+    "Articulação entre ministérios e províncias"
+   ],
+   "eixos": [
+    "logistica",
+    "agro",
+    "energia",
+    "minas",
+    "turismo",
+    "pesca"
+   ]
+  },
+  {
+   "id": "min-economia",
+   "nome": "Ministério da Economia (Turismo)",
+   "papel": "",
+   "areas": [
+    "Política económica e promoção do investimento",
+    "Apoio ao sector privado e à competitividade",
+    "Cadeias de valor e emprego"
+   ],
+   "eixos": [
+    "agro",
+    "turismo",
+    "logistica"
+   ]
+  },
+  {
+   "id": "min-financas",
+   "nome": "Ministério das Finanças",
+   "papel": "",
+   "areas": [
+    "Orçamento e financiamento dos projectos",
+    "Mobilização de recursos e parcerias",
+    "Execução orçamental e prestação de contas"
+   ],
+   "eixos": []
+  },
+  {
+   "id": "min-maap",
+   "nome": "Ministério da Agricultura, Ambiente e Pescas",
+   "papel": "",
+   "areas": [
+    "Produção agrícola e pecuária",
+    "Agro-indústria e cadeias de valor agrícolas",
+    "Florestas e conservação ambiental",
+    "Pescas e aquacultura"
+   ],
+   "eixos": [
+    "agro",
+    "pesca",
+    "turismo"
+   ]
+  },
+  {
+   "id": "min-transportes",
+   "nome": "Ministério dos Transportes e Logística",
+   "papel": "",
+   "areas": [
+    "Ferrovia, portos e terminais",
+    "Transporte rodoviário",
+    "Plataformas logísticas"
+   ],
+   "eixos": [
+    "logistica"
+   ]
+  },
+  {
+   "id": "min-recursos",
+   "nome": "Ministério dos Recursos Minerais e Energia",
+   "papel": "",
+   "areas": [
+    "Recursos minerais e indústria extractiva",
+    "Produção e transporte de energia",
+    "Electrificação rural e energias renováveis"
+   ],
+   "eixos": [
+    "minas",
+    "energia"
+   ]
+  },
+  {
+   "id": "min-obras",
+   "nome": "Ministério das Obras Públicas, Habitação e Recursos Hídricos",
+   "papel": "",
+   "areas": [
+    "Estradas e pontes",
+    "Infra-estruturas públicas",
+    "Água e saneamento"
+   ],
+   "eixos": [
+    "logistica"
+   ]
+  },
+  {
+   "id": "min-comunicacoes",
+   "nome": "Ministério das Comunicações e Transformação Digital",
+   "papel": "",
+   "areas": [
+    "Telecomunicações e cobertura de rede",
+    "Serviços digitais para cidadãos e empresas"
+   ],
+   "eixos": [
+    "logistica"
+   ]
+  },
+  {
+   "id": "min-educacao",
+   "nome": "Ministério da Educação e Cultura",
+   "papel": "",
+   "areas": [
+    "Educação e capacitação",
+    "Património histórico e cultural"
+   ],
+   "eixos": [
+    "turismo"
+   ]
+  },
+  {
+   "id": "min-trabalho",
+   "nome": "Ministério do Trabalho, Género e Acção Social",
+   "papel": "",
+   "areas": [
+    "Emprego e formação profissional",
+    "Inclusão e autonomia das mulheres",
+    "Protecção e acção social"
+   ],
+   "eixos": []
+  },
+  {
+   "id": "min-juventude",
+   "nome": "Ministério da Juventude e Desportos",
+   "papel": "",
+   "areas": [
+    "Emprego e empreendedorismo jovem",
+    "Participação dos jovens nos projectos"
+   ],
+   "eixos": []
+  },
+  {
+   "id": "min-administracao",
+   "nome": "Ministério da Administração Estatal e Função Pública",
+   "papel": "",
+   "areas": [
+    "Articulação com governos provinciais e distritais",
+    "Administração local e serviços às comunidades"
+   ],
+   "eixos": []
+  }
+ ]
+}

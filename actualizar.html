@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="pt"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Acesso restrito · UTI PEDEC-Nacala</title>
+<style>
+:root{--bg:#F4F8F6;--sf:#fff;--ink:#0A2A2D;--ink2:#44605F;--line:#D2DFDA;--brand:#0E5C4B;--dk:#06302E;--gold:#E3A52C;--ok:#0E6B3F;--err:#B3261E}
+@media(prefers-color-scheme:dark){:root{--bg:#0A1A1C;--sf:#10272A;--ink:#E8F1EE;--ink2:#9DB5B1;--line:#244247;--brand:#4DBF9C;--dk:#04191A;--ok:#6FD39A;--err:#FF9C94}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,"Segoe UI",sans-serif}
+header{background:var(--dk);color:#EAF4F0;padding:14px 16px;display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+header b{font-size:1.05rem}header a{color:var(--gold)}
+main{max-width:1100px;margin:0 auto;padding:18px 16px 90px}
+.card{background:var(--sf);border:1px solid var(--line);border-radius:14px;padding:22px;max-width:440px;margin:24px auto}
+h1{font-size:1.4rem;margin:0 0 6px}p.s{color:var(--ink2);margin:0 0 16px}
+label{display:grid;gap:4px;font-size:.84rem;font-weight:600;color:var(--ink2)}
+input,select{font:inherit;padding:.6rem .7rem;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--ink);width:100%;min-height:44px}
+input:disabled{opacity:.5}
+form{display:grid;gap:14px}
+button{font:inherit;cursor:pointer;border-radius:10px;border:0;padding:.7rem 1.1rem;font-weight:700;min-height:44px}
+.pri{background:var(--brand);color:#fff}.pri:disabled{opacity:.45;cursor:default}
+.lnk{background:none;color:var(--brand);text-decoration:underline;font-weight:600;padding:.3rem}
+.ghost{background:transparent;border:1px solid rgba(255,255,255,.4);color:#fff}
+.msg{min-height:1.4em;font-size:.9rem;margin:0}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:end;margin:6px 0 14px}.bar label{flex:1 1 200px}
+.row{display:grid;grid-template-columns:minmax(0,2.2fr) 1fr .7fr 1fr minmax(0,1.5fr);gap:10px;align-items:end;background:var(--sf);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:8px}
+.rt{font-weight:600;align-self:center}.rt small{display:block;color:var(--ink2);font-weight:400}
+.vazio{color:var(--ink2);text-align:center;padding:30px}
+.save{position:fixed;left:0;right:0;bottom:0;background:var(--sf);border-top:1px solid var(--line);padding:10px 16px;display:flex;gap:14px;align-items:center;justify-content:space-between;flex-wrap:wrap;z-index:5}
+.save small{color:var(--ink2)}
+@media(max-width:860px){.row{grid-template-columns:1fr 1fr}.rt,.obs{grid-column:1/-1}}
+</style></head><body>
+<header><b>UTI PEDEC-Nacala · Acesso restrito</b><span><a href="/">← Voltar ao site</a></span></header>
+<main>
+<section id="pLogin" class="card" hidden>
+  <h1>Entrar</h1><p class="s">Use o email com que foi convidado e a sua palavra-passe.</p>
+  <form id="fLogin"><label>Email<input id="lEmail" type="email" autocomplete="username" required></label>
+  <label>Palavra-passe<input id="lSenha" type="password" autocomplete="current-password" required></label>
+  <button class="pri" type="submit">Entrar</button>
+  <p class="msg" id="lMsg" role="status"></p>
+  <button class="lnk" type="button" id="esqueci">Esqueci a palavra-passe</button></form>
+</section>
+<section id="pSenha" class="card" hidden>
+  <h1>Criar palavra-passe</h1><p class="s">Escolha uma palavra-passe com pelo menos 8 caracteres.</p>
+  <form id="fSenha"><label>Nova palavra-passe<input id="sNova" type="password" autocomplete="new-password" required minlength="8"></label>
+  <label>Repita a palavra-passe<input id="sNova2" type="password" autocomplete="new-password" required minlength="8"></label>
+  <button class="pri" type="submit">Guardar e entrar</button><p class="msg" id="sMsg" role="status"></p></form>
+</section>
+<section id="pEdit" hidden>
+  <div style="display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;align-items:center">
+    <div><h1>Actualizar indicadores dos projectos</h1><p class="s" style="margin:0">Sessão: <b id="quem"></b> · <span id="ultima"></span></p></div>
+    <button class="ghost" style="background:var(--dk)" id="sair" type="button">Sair</button>
+  </div>
+  <details class="card" style="max-width:none;margin:18px 0"><summary style="cursor:pointer;font-weight:700">A minha conta · alterar palavra-passe</summary>
+    <form id="fPw" style="margin-top:12px;max-width:380px"><label>Nova palavra-passe (mínimo 8 caracteres)<input id="pwNova" type="password" autocomplete="new-password" required minlength="8"></label>
+    <label>Repita a nova palavra-passe<input id="pwNova2" type="password" autocomplete="new-password" required minlength="8"></label>
+    <button class="pri" type="submit">Alterar</button><p class="msg" id="pwMsg" role="status"></p></form></details>
+  <div class="bar"><label>Pesquisar<input id="fQ" type="search" placeholder="Nome do projecto"></label>
+  <label>Sector<select id="fSec"></select></label><span id="cont" class="s" style="margin:0"></span></div>
+  <div id="lista"></div>
+  <div class="save"><small>Escolha o estado de cada projecto. A percentagem só se preenche quando está "Em execução". Depois carregue em Guardar.</small>
+  <span style="display:flex;gap:12px;align-items:center"><span class="msg" id="gMsg" role="status"></span><button class="pri" id="guardar" type="button" disabled>Guardar alterações</button></span></div>
+</section>
+</main>
+<script src="config.js"></script>
+<script src="actualizar.js"></script>
+</body></html>
